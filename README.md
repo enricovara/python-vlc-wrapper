@@ -5,6 +5,9 @@ A minimal cross-platform wrapper for [python-vlc](https://github.com/oaubert/pyt
 
 This project provides an extremely lightweight tool to play media files cleanly, with one line.
 
+## TO-DO
+- Add fancy features so that it's equally easy to pause/stop playback with one line of code.
+
 ## Features
 
 - Fullscreen video playback:
